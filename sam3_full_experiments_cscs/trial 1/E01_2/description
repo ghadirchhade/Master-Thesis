@@ -1,0 +1,6 @@
+The experiment includes three executable files:
+  1- Inference Wrapper: Python file
+  2- Run Script: Bash file
+  3- SLURM Job: CSCS submission file
+
+I also included a Markdown documentation explaining the experiment and how to run the code.
