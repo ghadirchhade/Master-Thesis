@@ -1,1 +1,2 @@
-# notebooks for my master thesis
+# codes and experiments related to the thesis\
+
